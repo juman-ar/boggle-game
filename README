@@ -1,3 +1,14 @@
+Boggle Game
 This is a script for a game called "Boggle" that I wrote as an exersice project for the course "Introduction To Computer Science".
 Boggle is a word game where players try to find as many words as possible on a 4x4 grid of letters in a limited time.
-The script uses the tkinter library to create a graphical user interface (GUI).
+
+Features:
+4x4 letter grid generated randomly for each game
+Interactive graphical user interface (GUI) built with tkinter
+Time-limited gameplay where players must form as many words as possible
+Real-time scoring based on word length and validity
+Restart and quit options for convenience
+
+Technologies Used:
+Python
+tkinter library (for the GUI)
