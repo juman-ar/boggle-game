@@ -1,0 +1,4 @@
+DESCRIPTION: This is a script for a game called "Boggle". Boggle is a word game
+ where players try to find as many words as possible on a 4x4 grid of letters.
+ The script uses the tkinter library to create a graphical user interface (GUI)
+  for the game
